@@ -1,7 +1,7 @@
 ### Scraping project
 
 ##### Linkedin Company Bios.
-    * In the future, could add other linkedin scraping functionality.
+   * In the future, could add other linkedin scraping functionality.
 
 ##### Add more sections
 
